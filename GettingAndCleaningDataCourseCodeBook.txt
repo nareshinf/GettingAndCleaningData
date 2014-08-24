@@ -1,0 +1,45 @@
+	DICTIONARY - Getting And Cleaning Data Code Book
+
+
+Group Subject
+  List of volunteers, on whom the tests were performed (Grouped)
+  1..30 Unique subject identifier
+
+Group Activity
+  List of Activities performed on volunteers (Grouped)
+    Activity code
+    1 WALKING
+    2 WALKING_UPSTAIRS
+    3 WALKING_DOWNSTAIRS
+    4 SITTING
+    5 STANDING
+    6 LAYING
+
+Subject
+  List of volunteers, on whom the tests were performed
+  1..30 Unique subject identifier
+
+Activity
+  List of volunteers, on whom the tests were performed
+  1..30 Unique subject identifier
+ 
+
+Tidy Data variables
+  Time Body Acc Mag Mean
+  Time Body Acc Mag Standard Deviation
+  Time Gravity AccMag Mean
+  Time Gravity AccMag Standard Deviation
+  Time Body Acc Jerk Mag Mean
+  Time Body Acc Jerk Mag Standard Deviation
+  Time Body Gyro Mag Mean
+  Time Body Gyro Mag Standard Deviation
+  Time Body Gyro Jerk Mag Mean
+  Time Body Gyro Jerk Mag Standard Deviation
+  Frequency Body Acc Mag Mean
+  Frequency Body Acc Mag Standard Deviation
+  Frequency Body Body Acc Jerk Mag Mean
+  Frequency Body Body Acc Jerk Mag Standard Deviation
+  Frequency Body Body Gyro Mag Mean
+  Frequency Body Body Gyro Mag Standard Deviation
+  Frequency Body Body Gyro Jerk Mag Mean
+  Frequency Body Body Gyro Jerk Mag Standard Deviation
